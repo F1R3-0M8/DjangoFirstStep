@@ -13,13 +13,13 @@ h1{
 
 ul {
 width: 460px;
-height: 260px;
+height: 280px;
 padding: 40px;
 position: absolute;
 top: 50%;
 left: 50%;
 transform: translate(-50%,-50%);
-background: white url("images/tenor.gif") no-repeat;
+background: white url("../images/tenor.gif");
 /* background: white; */
 text-align: center;
 border-radius: 16px;
